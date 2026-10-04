@@ -1,0 +1,13 @@
+split,method,studies,system_penalized_iou_mean,system_penalized_iou_sd
+cbis_ddsm_calc_test,DICOM-HUMap-BCRF,151,0.05617018757893237,0.0790159896127429
+cbis_ddsm_calc_test,Grad-CAM,151,0.0,0.0
+cbis_ddsm_calc_test,Score-CAM,151,0.0,0.0
+cbis_ddsm_calc_test,U-Net pseudomask,151,0.026130579713199608,0.06076919318575907
+locked_test,DICOM-HUMap-BCRF,22,0.12381743581339508,0.15698014498001564
+locked_test,Grad-CAM,22,0.0,0.0
+locked_test,Score-CAM,22,0.0,0.0
+locked_test,U-Net pseudomask,22,0.11420107868403861,0.14630986728685477
+validation,DICOM-HUMap-BCRF,22,0.1443113066987572,0.14071225608616356
+validation,Grad-CAM,22,0.0,0.0
+validation,Score-CAM,22,0.0,0.0
+validation,U-Net pseudomask,22,0.1617132113697253,0.17958837527253999

@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "scope": "canonical mammography DICOM rendering and deterministic model-input preparation",
+  "primary_model_input_size": [
+    1024,
+    1024
+  ],
+  "eda_feature_size": [
+    512,
+    512
+  ],
+  "ordered_steps": [
+    "decode stored pixels",
+    "mask inclusive Pixel Padding Value to Pixel Padding Range Limit in stored domain",
+    "apply Modality LUT or rescale",
+    "apply VOI LUT with prefer_lut=true",
+    "apply Presentation LUT or documented MONOCHROME polarity fallback",
+    "normalize finite valid presentation pixels to [0, 1]",
+    "aspect-preserving resize and zero padding",
+    "apply the identical affine transform to bbox coordinates"
+  ],
+  "primary_input_exclusions": [
+    "histogram equalization",
+    "CLAHE",
+    "percentile clipping",
+    "bbox-conditioned preprocessing"
+  ],
+  "bbox_role": "weak localization reference only; never used for rendering or breast-mask extraction",
+  "library_versions": {
+    "python": "3.12.3",
+    "pydicom": "3.0.2",
+    "numpy": "2.4.4",
+    "opencv": "5.0.0",
+    "matplotlib": "3.11.0"
+  },
+  "input_manifest_sha256": "809d058ab31f4232e29357f9dfdfc5ee6a276dfe73945f326cc59eb41e0c182d"
+}

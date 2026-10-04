@@ -1,0 +1,402 @@
+study_id,value,group,feature,selection_rule
+0efca57fad3aa67efe75a11edd765472,-0.17813454545121754,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+10200894bf6f74b2ae92a0cecd37c60c,1.174690039580974,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+106048f442f331558734236118685907,-0.0234632055845425,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+112accee625e15fe60e48dd52afdbbcb,-0.1390343227121664,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+12b0db966e11c6476cf9134f254fb1b1,-0.4285829312230167,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+13429cc3bc880f9b40b45acbf9b1a2fb,0.07469318155763595,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+13f135b23fbca421d92c45a7e18c4593,-0.0752197008643376,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+1ee83500d570b6bc68f18914335101cf,0.6541199240911699,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+2078a9aa298d78bc710441899883bb86,0.7356862245684368,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+2c536e8b72454ad979b24648db6d7af0,2.1664511574373337,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+2d2bb6d7e02db98049f2f598bb8c889c,0.9566949926651875,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+2eddff9a90428070b98f85f4c4b6c758,1.035559996005616,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+2f4d26ae21e1fb85ec2d97f9464aadff,-0.19869272315696843,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+3087f2712d14867142d383ebac1e15b4,-0.2074481247522106,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+30c3a965cd79168a8b85899be4d0bdab,0.03473820401241312,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+33b8f87d3dde7de79f1d6253d33bb235,0.8120569846840846,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+35bf1126ecdffa8af49abd36db2de322,-0.28568398952128904,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+35eb15c7c9522cfb54e75dcbb73f1e55,-0.5589162121368236,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+39990d7da039240a5de01d68d3166d61,0.0886801499912362,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+3ede3de12fc4c4bb837f7422a3a16380,-0.1281044844755079,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+4128d4d93fe7371691759f212588cd92,1.1633344304221103,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+428b656fce3168763e8f2fccb4ffdfba,0.11331119323462535,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+44547b977313c66f106c07f99e492ee2,0.023373685577733144,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+44f8a6c67c79d21903c3202c980244fd,0.972069022933977,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+48ac6ea5fc55dcc8dc9175975e00b86c,0.3839511585745701,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+4bbb976f1f09cb84f28fa0601a902781,-0.1658319978576992,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+52bd2f2f2a70263495e7cce47c2ab229,0.16452112887412307,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+55dfb11244b9a73d5ec8131783f5b7f7,0.935061685055716,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+563643e06302bcd7216c2ca8de3157e5,0.32472817615461946,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+57353041de453e62e1c589ae0450bc76,-0.23392656619917315,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+5a2b5febd11b2fdd2c7f4fd1d0f92104,0.0141506427465967,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+5b2344cf2aeda414c766672b3687a44c,-0.543676079136215,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+5b9cb37e9512dd60d4938f3d964ec1d8,0.39270134457380546,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+5db9ac9324ec6e77d5e5c4a3158323d7,-0.6222767681892882,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+60279474726275dcc024f3c67b4d51a3,-0.3406571351203049,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+615242ea26bb1db9db5d74acd048d3cd,1.103529822933655,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+670e80649fd4f8d6a4cfeeac2e1b6e83,0.0942909755733283,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+6f5b2b4ac3e753f425fa9fb4a521d08d,0.46705111938055677,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+758aa9f0a1bc98be0b54b9c9b840e60f,0.001686542313044992,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+7ad3e804b8985abc9b72ee0bd4c4a8a3,1.5855355046207915,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+7ed7391fe55395a5e33c4254788c1058,0.14043621901056366,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+7fd8b8221c97ba86ff9cc98dcbd98fb8,-0.35373582236473355,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+843abf53ca13b08410085e28fe4de489,0.4864441416443095,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+8709bf15ee90717d41e647d921a6a357,0.044389463279237665,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+877bde1cb8b7df49cde3fdb7020a1536,-0.34916503364186635,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+8ae2db86499819584e175cadf9099d25,-0.16881195859790243,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+8b202f831f93639ebcb9cccccec03b09,0.04360300657943905,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+8c5683e7012038668f69a21cfadd8e1f,0.019433364840711037,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+95cd59c69b542572baa1b2842b9c617d,0.04402999838203958,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+9bf5e07c124d149dc072232c005e033d,-0.16146134878852944,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+9c8e8f688e99a35f6bb0a78cd4ae8d7e,0.06749673672762264,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+9fa77f09c63d67234d98d8abecd34dc0,0.13070923510879487,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+a187b425b23c4264a79785c062fce873,0.7563824837488553,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+a235482f737d9a3baa8313c8f4db16d6,90.54238542258985,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+a7c03b6df23a9655571e19bcc9a8edb8,-0.04851245167541583,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+a9806aea2c2a812e3495c594b70a2622,-0.1685319357571817,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+aa500e7685bcb0f515e3d47cdf2bac33,3.3134316910307184,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+abcfe29c06bed0b1270a19d2813b9a10,1.383246107973045,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+ae4b6f49514c32216a8aabb4b3ad026a,-0.34293248697113027,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+aea8a489a726e3e313069846dca5640c,0.4645496735505629,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+afbe2d7854c59bc25b482ad610f5291c,0.6426801250468284,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+b41064e4c9bc52de5fab76051a9bcfad,-0.2343596370659457,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+b66ed0c50a305ce5e2a942eb5d3c5d12,-0.6385064075572031,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+b6c6b380d81aed73223e7ef535696064,-0.49493685264077647,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+b9a94c8d69c1c7c5433cbe035fafaf50,0.13317231275996239,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+b9c15e629cf02f501acbc194420d749c,2.5028729092330213,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+bb307884bfe5da3db54b94b736f10023,31.88023836578257,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+bb618f1280b452945dc7afcf35e23b9b,0.277030550624513,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+bba470c7ae302b5e4bfd2ed1a4515661,1.216048817578566,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+c626a17d9f6aa2a128d94d064819e60d,-0.0004584455137075505,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+c7f861a74319467948f0228c6597fc8f,0.6537357649605811,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+c8be72337ea969d935bfe8e0a20e376e,0.20010884582060146,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+cfd8cbfe20b2eb3f1636454982ff6186,0.13585291886899717,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+d539fcf54d3a20362f11a47d5b2e0cd0,0.5549506515106444,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+d6751693a8f2c11a67fbaed260449abd,-0.2831716905618144,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+d6c5932b95b9f03f4a70dc627ac7b8de,0.386142259621332,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+d8245da0e82b44954f356b5435d965d9,0.5370933568411993,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+d9f85d334141f3554fb6faceccdff570,0.21949284566938276,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+dae4258d28756cb180fee212491519ee,-0.18542216251060206,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+e11cb06c657324160b15e72be89f6c28,2.2651213983267118,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+edd16a2820376d88e615f1461f711d89,-0.010327164452396093,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+eeb18c719cadabcc5ec397a53be529db,-0.22171745464510328,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+f2794837a4d5a4b234853483c7a20d49,-0.4572060958332016,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+f89349252116268e610fdd4ba0df0aa0,-0.30982902343956753,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+f9990aea4ea38c02e0606a2edf9bbced,-0.1978377881693565,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+fa9226b8d31971dc665bf1f4066f8e59,-0.10592138001270344,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+fcfdac68cdf5c9515a810d8adf71e2cc,-0.4861968279346826,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+fd2fccc2650d1857a5669c28441300b2,1.15241120498152,Target study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+008b8e61390fcb4c0873258c15b0a53a,-0.1591698477080703,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+012e0595adba5173b6e60a97f9e84b6e,-0.2396892478886281,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+020277fa1a755e94e6daff607559f837,-0.0049896703368621,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+02a306f125729d279538ea3dde4f262a,-1.0723606892011999,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+05454cd8006c310504af7d8c0f6adb15,-0.1029641630976359,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+064741fa1cf1c410df6bd8cf69a64acf,0.38793240295623166,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+06582906eb5ea3a4e7aa5d1fd7feb1c1,2.716199151348864,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+0811a49701e47ea2eb3c5365954fbc34,0.30067998653737327,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+08d8818f81810c7979df66dccf549932,-0.6972776898571714,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+0a936e2a8042114394878bee2c7ef727,-0.205131581167357,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+0b86a34d84ac7587f7374589268debf3,2.558371543307851,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+0da7201157257d33fbdbb784a6a6521e,-0.6336810300103158,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+0e950d8bd73cd86c25a287e2d341c7ed,-0.5644681761476213,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+0f0551f4edb5494b0d8765c23fe421ae,1.0016934321218791,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+0f73f59df0d9355ebe1d6024753a9e1b,-0.5664671868460633,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+0fbeb0c0568911d2e9508e1eca010a32,0.21944339422359738,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+11a16838fed9274fffe074333cd61264,0.21627155983381652,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+137e66f52a0a4e95d4344ff2852f9033,0.5344926621756096,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+1450d8b315129d9207bcbb2131eb7d31,-0.15362637875913032,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+14cae76f3f05638cbedf9b1c6955958d,-0.25633454387891086,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+16040245abe855c2dbdebc678fb199ab,1.1393173316459249,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+164251791d6156672ae7a8599a5d7779,0.1033665024640004,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+16ea517b8a6ed18fe6cefb0e100ff7ee,0.24728324807685167,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+17efc47ffc11ecf2d6a8f3bae61ffd08,0.018363957817534998,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+1902f78dd41ade9f6f6de8a4e571eb1e,-0.09538472606560845,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+1a1fab4e6eb9512e6eda9d1d2cfda26b,-0.5054329875774171,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+1ba2c84f59721618a813de779c880fd7,0.4732835731970657,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+1bced818b729bb45a262a587db251674,0.3057063866384977,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+1caf7a7178dbc3fb9649b93ba42115a7,0.4216367846945166,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+1d3101ae8a21ca94e8f7b50a4eef95e5,0.16137317704630938,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+1da5e2e33cf1147ef5fb7460634e0ac9,-0.40107641415265305,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+2000886d64b57070bd0ba6d6a0e298fc,-0.0599657586466986,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+20d557b3d375b4e7762b32550a99f6c7,0.13455128045875253,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+2109fb895eb5b829dd7c4f984ec7a954,-0.43138757161743313,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+214982cc36c1c7c8ae6debcefa8dc10a,0.31526983157019894,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+217b91b8b9f1fb153ae61fa1bedebc74,-0.2529157941241116,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+217dbf17912040805b4121ed9453c3b9,-0.7661925559848808,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+22dd684f64f6145f9935d08e793863b1,0.2183654213978094,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+230455d2f7cba41213ee6c786f259521,0.059459396028220146,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+23861df5ad7384ec0b9aec5778439b4f,-0.2172742651654606,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+2405dc6aa8eedcd2fff3c20ae2194923,-0.1304294130557089,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+2438c90cce7209733a62c5ffa6f5ef94,-0.3376597326084929,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+258aa8285a5968883f917c4dfa57a60e,0.07245221161800394,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+25f78309af28cfacd1bf36369d09702e,-0.20308301603574774,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+2668cfeca653849ee0addf9ea63dc820,0.1188011810500206,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+269a9c5817814c1b918ecacda31d427c,-0.15304177431181198,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+26b1a61af2357833acfd2fbdda6f45d4,-0.4476662808740874,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+270709ba17a4afe1e2848ae71f5b9642,-0.16635832366536366,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+276f67853d66a1af9361bb52174a1072,0.4511459624672653,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+28b0da83ab46cc8371b501ab005c88b7,-0.5725338713088766,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+29e6666c5ca74d79a315d3f0c35b3013,0.8027493538264296,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+2b439535813e682037b43be6d4b25732,-0.37204252123081155,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+2c4cc5495e3fa8f1b4eeab6798714449,-0.06644333411585834,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+2dd3da8cb62401521d05671ab6ac4a85,0.5733906515863834,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+2df91aab9edbcf4db7faf8da1079685a,-0.5445647786541736,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+2e00b18ddf545eb29cb44c7c56540e07,-0.3064110895086782,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+2ed37b11f338cc6bcb10904ac38daac3,-0.39360269319224184,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+30ad46b0520344cd84be15253b8abec6,-0.1736793374917562,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+31c93d344d0c6a2d9fe5336fe9797881,0.1856896576296603,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+328bf1d18179df3ed1966f826df29e5f,-0.25308897093933513,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+3344ab85e1ba23a77fabcac9790fced5,0.5696026959411435,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+34229c5dad749ea18463928db035c6f7,-0.3274166182216429,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+357d9f7f8a1b65bbb2e13d52ccfb6cd6,-0.1408970899763209,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+36a1569aca166a2f953da98c97f4fc38,-0.0172928784443125,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+36fe47a45a89332e55cec5cb59ab98a8,0.1033114343271592,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+37c08fd1d60e1ee8eb4bec7a27b44e26,0.11777551337300181,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+387aa7aa83525008e52e109531fe35fe,0.10530269791135714,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+38d9a4124ecc9032f0e55da1a6322bf0,-0.3678377849119072,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+38f0774c2e72c4d5407df23a43aa1ff7,-0.23013125384891664,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+390ea4c21dce6c76df078182fcf0582f,-0.1606016369099548,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+3a35eb2c0576cf10861bc2442babffe5,-0.2712293833646864,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+3c82c686c9482c6c4c8a0940f815a3d3,0.1324238964456801,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+3d342bcea04ea881e47f9de7238f91ea,-0.24508467183149715,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+3d69a7800411de271a7ba6503b05bef6,-0.43124051223338267,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+3e92d46f9695bf4151474a1a8c4738ae,0.13962661292563383,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+3f63d52243caf37caca6827d5d446b55,0.1497689142206351,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+3fa94bbf5bd9539dd1821b2b21a7af32,-0.3508247972595575,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+40fd171bb41c81180c7d1f1983d6c2fb,0.07293835431193796,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+430f18f329a4b8a72adb9b1349e36382,1.0247934850153873,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+44c63ecd23616c4fce7e817470401d5d,2.1845926431048537,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+45c76874cc900575673fd8bf5396466c,-0.0919883983075249,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+45e992b35b6d677d9ce696f1769367ec,0.1542867941117522,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+464ad05b646590ac1119f35b160f837e,1.4921422371601565,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+46562f18c353f3e29949f23404199ed4,0.07673731784464066,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+48575a27b7c992427041a82fa750d3fa,-0.2138930344620455,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+4b2a407b963e70414dfd02d8de6b56e2,0.2306988753955246,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+4d7251459f544291749639dd9265b804,2.7792956387599586,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+4df2fd6ed92798b0b18b1e44ca078f4c,-0.2909476661127859,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+4e6665640fb0575ba767493f321f40ae,-0.04178845954400989,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+4ff54ff1105c5f62650c4692d67d2b97,0.17209639514196323,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+50aed32dc3b9d108a1c0966d13991511,-0.4709445633756215,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+51cd52d6df06c6c004965aa3fa7157a8,-0.2940968545688995,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+540914fd605bd47b0972b62942b998c5,-0.0007311153323839026,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+543f67d7c06bc174ebfea8531ea9416c,-0.1939282992783444,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+54777ee406bf2cc437fa9d72e41c4af7,0.1129376146204592,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+55292825bf2fd66fb367b18c091c2415,0.5800880468937692,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+556a4f260d4e3b576005ae93d01f6eb8,-0.09373083520167348,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+56e54f64f6aca6f887cc52cc240dea6a,0.0718102874424091,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+57674c2def92287668ed5bc51092fbef,0.20592735500482465,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+57ae21fcd753ec1b811c3b316d49dae8,0.0898455976754299,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+5952ab0fbc75b3e2ecac8daf7945516b,-0.1547701736787146,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+59724bca2782a2642f92d7d21e973bef,-0.01483341987855935,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+59d7a03d6653228192169d00869b69f9,-0.06666647962068548,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+5a9ed958f1d0f5c159a68c77c610351a,-0.6040908443516044,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+5c32aac989899542513be63d6b2d392c,-0.13429761306368232,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+5cb561f090b4fdc4ff25327dd3c1f92d,-0.2056093643717416,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+5d99bedc43c3225261b270fa4bc5181c,0.3117113188695746,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+5dd27c4229cf4d785e3a67952c141e6a,1.4118241709229844,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+5e3216db19aa93c7e397e29a7ede3ea8,-0.07916455468657399,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+5e3d1deeea68e248e65fa0e03249f925,-0.7415732484480317,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+5e577744b5233e2dfae046a1e68c6ca5,0.8462227120304953,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+5e96b59e5dd5ef6bbe1261e69766c426,-0.4421272365282003,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+5ed241690b2b9488f7c68e441357c6cf,-0.8050938965626515,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+5f6e4829dd69b3643277057fc8640aa3,-0.07471609597587164,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+605fdc453a4af1933695ff682fc46cea,-0.4738113829313666,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+61b2ab1d25c1955b270b55971022231a,-0.4399480026939801,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+61c6b3ec13649a482ca1037b4103b2fc,0.4943067167711747,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+61f89a0baefd8edfa50c240d6439b7d5,-0.36269687450785937,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+63303252b1fb34780163ab8a47ba89f9,0.5158853401379953,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+6396ef162eb814c5847f5eab49b737ab,0.20452973397695406,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+63b872fe16a03cba95b17aa582d6df85,-0.6065779577393067,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+66a1867c10dc043ac2d6fdb76bef9115,0.2097693284136159,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+67e3f610188217a67cac87d03b2a1562,-0.12290831888896459,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+67fa83fae24cea1258f6dadacb9e81d2,-0.1379902290318575,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+6847d11fb67e982b6528ab2af43bab8f,0.2890884458534815,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+68b819a80456e50103709cecaa927fbb,0.016648548737861146,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+68c9aa129fc6b36692493accf6577dae,-0.35925192417077056,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+695d09e0fdad29a27dff29500d352008,0.2630389893398093,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+69fce1bee9d2056fa4f35c693a38e28a,-0.2284946593757127,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+6a015ff718625303ff6dbb763f0e7367,0.18416955890747944,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+6a11b64b543a74672915ac5e78d79bda,-0.5753026334413851,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+6a513ba4c316bad225420ec1e1370e6e,0.2868697286535828,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+6a5fb5091c54d26f78f2439269bdaa82,-0.11263764090562424,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+6b36604715be66f9d4db3343ad030125,3.956327827461891,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+6b675c868d714a59a521978dd89ee685,-0.29025240850800665,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+6c1e2ba57dbae930626624bf0e3a7357,4.188797360011382,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+6f5188b8ccefeb7c3d2d3e9e50a7b28a,-0.3854452340353855,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+6f9a7e206e52623c945f1039cd069cee,0.24236427859235385,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+709ecc90dad40571fd26e3270de97966,-0.37456886231351527,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+70c91262ab8842935e5569c4ea7cc20d,0.1045501557701876,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+70df0922235c570b6c66f142f2bf8d36,0.2971203209511337,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+70f98f73ca0714118b87a3258147101c,0.007251969710155626,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+711543a7b6910a0e41ef126205eca9a9,-0.0057655607035114,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+719407d318c8aeddd2d7a72801ad8770,-0.13656479198222388,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+71c6ba28c22f47a5480ee91838e4078c,-0.042910021443876706,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+71e1c99aaa708f39cf4f6c395041011d,0.2240848898725196,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+72d177eae7c6b34a411341368f32ca5a,-0.552183405993834,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+7364e99bbbfc25fca6f398ca2110b55b,0.6259773561415931,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+73be6c9dcf69967c751e30cbe5c8fd55,0.97812932003007,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+75df369020dfec63262df17496882be4,-0.09379485989454864,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+771a26023239098a254bbf59d8ff2ebd,-0.4623991801199727,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+781cce097dad8149e13ed03febb6bab5,-0.7002732088630355,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+78480822998350f5d116d49ecc50f6a3,-0.08046377386471937,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+78be3640c01db796da075eab00bb330c,-0.1747883909223713,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+79a545d87c997d0ac51be0b90c6a6ca0,-0.10814062622919421,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+7ac5bd45e5d5fca171e070d73a2170d5,0.3607866281337459,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+7b1cea18dd875468cff8b957e23a82ec,-0.2503555555804466,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+7b97956c34608dc42d43c96a800eb55f,0.383570250504833,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+7bdfdd72d14a004a88918758eec0ebf8,0.0883794678094687,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+7c31f8b42276e56a2ba7006ae2d63604,-0.8273892583911646,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+7c98228fc11204260460934ba8c6e12b,1.3739219685653037,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+7ca902f0527e761fc2ac5435ed008fd2,-0.7447402865655155,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+7e6403be5452b4fff44c3993aab88707,-0.11674283580047204,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+7ee98232df9bcefc6b54530b6a616690,-0.36179269574371253,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+7f07498cddc674558db06129c60f7113,0.05235856350524675,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+8087671bc3e243bdcf933ff651df0b1d,-0.8881729895615884,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+818ee79c94ef2ca95fef1e04b1ca4557,-0.2504860926239343,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+82e36ab5d6ba906907db5b267a8f44cf,-0.28123272950930844,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+82f2c3ae3aeb9a83fd401f0c2e4ef68e,-0.1396429158721632,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+840a7e98575ba78f6676aedd749a09b0,-0.2673520983122532,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+851e387e17df214ec4a50bcc713a078a,0.5373188177930608,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+85d26c72e12b6139a6d26b54c3706c30,0.060665238816089095,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+85e276e2e169121bfd36be0b77c18bf8,0.20661887776114907,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+8a1fc2dbdfedf989393590e9ff4a5c22,0.6117446855718558,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+8a83a1b911d3238c144aa0e654be5dfb,-0.5218015701280998,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+8abaf178e500859d0a532bf34a4ce595,0.8619861829073265,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+8bf4f9d531f68299f8d8f9d033bfa5b3,1.1166810683417596,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+8c2aca576f75222aefb98d06ae4c0f4d,-0.8224243951610339,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+8c3a72bc005d1638babd62ba02d56126,-0.48260649899864694,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+8caa19db09f6f7dc307c198f15d8456e,-0.3855540092085099,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+8cef307c92cd6746f7120348d9157fe3,-0.2816891138997208,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+8d488f7bfa2f1b08032abd2fea36b4f1,0.5359683914010227,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+8e467df187e9aa4bf69c9967fe2a500f,0.37784558647307465,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+8f008446f53aaf838302ec845ee1189d,0.20798473907196574,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+94bf7bf284a6ab1eadb498bde7bda741,-0.4614727812360149,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+957131e9de2efc7a74813d9ff5e43bc5,0.1433073480310946,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+9608dfd0f62bf5ce53bf1843b020b6d4,0.059218543362592,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+96f69471adaac2bdad7539367b0e1289,-0.0493410616576344,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+973bd2de8e4dba021c5bcfa1086d0c2c,0.20101285646527003,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+99458be10b74b7a9ed2f0bd91478ac3a,-0.25757379573595696,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+996f1876ba61a22dbe494eaaddab5f68,0.1904876712550902,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+99e880e8d860ed86d42caa8728582335,-0.8551332858349543,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+99f8ee0074c65cc7c5b115e182cc9504,0.5564093906247047,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+9b720facd58a23aef24bee0823ba5a27,0.4940023378874545,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+9b894f023fc7d0de382f3bed383983f0,-0.0927244558681987,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+9c506b75a066dc7a753de95cb2ab7588,0.006785361613563162,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+9ca0112757065957cb751b4b8a0be110,-0.18234841298671722,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+9cd11142270fc4e1188ccc8b02d23322,0.059120330459904794,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+9d6bc38b17efaa2cc5457ee9a04d5f3c,0.12806690872343876,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+9d70fdb1b75e27fc265289abd9fd3800,0.1214830738711194,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+9d748a25b28d9dbe249f7b9c759258df,-0.009348595489477224,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+9dc019aebde9e991a3cecd083991ee0d,0.3180129646787892,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+9e8192d1faae0898ab26d0b3c891c1d2,-0.2261535271937194,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+9efd5f5c65ec8c402ec48f0ff7388562,0.594093889225255,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+9f5ce88e76b5c690bae653e76aedc80b,0.11300744140122365,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+a0da8d047c71765cdf217a8a52606741,-0.33028176918381263,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+a0f14ae866385e07fa214169675a8d03,1.4519504300376607,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+a1cee8cac027b6c3078a564ad2673332,-0.2201237741926187,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+a32528da615a00d8a2a07deb4cc4cbc7,-0.556734149762792,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+a384c133416b47e3a4eb4df1f519748a,-0.7869515639569231,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+a4d12ca2beaf6714f136cdb1370b84fc,9.82137681110693,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+a780fc33572ac995b1ca1529be96d9bb,-0.49064979500987715,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+a82422e24892bc8ad21e3bdfb0700702,-0.2707730646431534,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+a8cb9adadef00fc473b1760cd7b513e4,0.9510189627448062,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+a8d4888742a3bbd89cbc8397f91c8402,0.2949056011911297,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+a9e64dc54160d9c4344607e0673a8d3e,1.7834516476166316,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+aafaf3cb8ce2ead9b4d024247e4da611,0.2072893739411365,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+ac975b1bd4e32c16d3051533656622aa,0.111224427873342,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+ad39689f1bea2e0aee2574488f06d231,-0.3270054042536998,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+af30b2eb2b2effefb6636f9f096c07bd,0.16032979568587818,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+b00de9442c7037259458ad13b1881b31,-0.75077648503281,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+b103f1f8b0587e655e3d2ef172d77aec,2.3826293809696177,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+b123bcd385130b5d089f3fc9a7d24a11,0.03591308559956155,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+b2da0c05f2a455ff710ff98f1a594e9e,1.3205111402111642,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+b306bdb2fa3bb2890ba420d32b3f8fcb,-0.08348985192591532,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+b4af77205b86dac60f95a1e995f4c14a,0.12656176669117405,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+b53265e77c40a80007ce9655f8dad662,-0.3660561454067488,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+b5567bec32bc168570b4189426bbc4e8,0.24863060910706314,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+b5a6b304d769cdd45a7ac4253f653e5e,-0.1424078965856354,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+b6cc69e06a25377900f4d4afefbc4019,1.8017350544991784,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+b7357809d8e2bb3ad964b4c2c53e6c7e,-0.6689306196936842,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+ba17277e8fa722e9405d0d3d0c1ac174,0.05662111678352025,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+ba52f3cbc475e325b4879e1b63e1915d,0.1720811297479705,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+bac0233f881d0c619ee06c6ea6b68a4c,-0.3431402888027435,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+bb639e3af9d507ccb4a584be23bb9349,-0.4489311937649145,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+bbe607bf3b23345388d8fd2377dd83c0,-0.11684477601471313,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+bc01d2c4f5fe5e6be83ef636d5f3403c,0.1635409414365272,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+bcb0736132d431b4b79b564afbb3fa8d,0.6368204708646785,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+bd36f59a2266b5b8684eaa66eeef8cb4,-0.2130957961379929,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+c16bef2f8dd3eea62f0d5b66af8d1778,-0.0264433181708794,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+c1d7b1c12d52b4c007c78b0dbfcb87e2,0.6347629087836832,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+c1efa130e4258fcd9fa64d4461bd8145,-0.2418234120707272,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+c3487424fee1bdd4515b72dc3fd69813,0.30402987946316395,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+c519974ec0f6a536640dc0a96742d3ad,12.765954772411376,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+c53e2c93d290d217803500267edad906,-0.3791923635629981,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+c7360c6740dcbe8491216ada6ae8b2a0,-0.1988256307837783,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+c7a6bcb9dd5cb7f576bc2eda4034e94d,-0.5446324102649285,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+c7efc618457fab6c75860ad3023a056e,7.163915091100081,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+c89f7a90cffe18e64e1b60d2643d404c,-0.03781202910184067,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+c9881e07b3445a6fb8aa5f11d6d2413e,0.3578778492485053,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+c992002261bc88a4f998498655249435,0.3924122900649283,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+c9bf7a8ab7246729d66d3125f77250c5,0.019768490048182055,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+cc2fa527db72082028747b8f14c3d578,0.2783432954855409,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+cc529421ea90b754791cb0a17b5d5950,-0.3668965668089026,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+cca141f804a8ab8b584d63102bc7f3f7,0.6632210622806718,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+cd03d5b75d7349d56f1bdcbd2703ddf5,0.6341800344528563,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+ce777290f192731820b9cf61963aa4d2,-0.136254423493972,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+cfce7e93022304b7099313720dcd3932,0.0020539184675487,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+d010dbb93a1a164ce8afc0b62d22de98,-0.3452817498012681,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+d05380088078c3f43c8e69921dedf68e,-0.18664117621387485,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+d06d1dcd3e83ce206ba413103f996319,-0.011784179021031127,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+d0c9ed546f54159e70a051805c9f7499,-0.20586607462863932,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+d18ff5211c7f474b5bb6e35c0e24ccd8,-0.3878396621598126,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+d1cae6ed391c5fca26f1a43f57ff7b2f,-0.1862712306896474,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+d415d39327b7fe16b7d63e0f2840f547,0.941169434812087,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+d5ff475b96447b3c60216652d7f49f23,0.1437542795498534,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+d6570a2aae155f03b3e3b5eba83167bc,1.8694315740316665,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+d71aeaa60e6a14df6b9adccd012cbb90,1.6100332459600697,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+d746c5e878799ec8f42e2e8f6ab9a992,4.0086210335995265,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+d8d0bc6e58b11efa2f86a9c0986b038e,-0.6425442679268627,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+d8d9c121cc587f31710f61b20fb8c98c,0.23333313869225103,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+d94fa669c37cc757ea519ca3c291ccb4,0.3682163850375546,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+d988555191775fef4d65c563e53bb977,-0.36248055795711154,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+da7ee8db725a99f5de65a45f91a2827a,1.0038315878069175,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+dab9b5bef442a112fde8270ab98c4bf0,1.2308905835955466,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+dabe91ba1df76cc06a21c8e594c2a966,-0.33334341769000475,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+db65dcf86c7801c681dda0d2c81ffacf,0.48969153449641944,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+dd6333df02b3131120f721d732b3e1ee,-0.5064847986934913,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+dd98abaf0ef843feae62a29c31caee45,-0.32634773307425413,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+df940c8dad05ec9fa20bd763e37d49b7,-0.0218151354036741,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+e118efea719f8dd45cbb08e5429a464d,-0.8231534130135181,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+e1314fcdd554aa328145271d19db6929,1.3134355679329286,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+e165de82e91293d6993918776874821d,-0.31672011571102304,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+e1b91a51a8ffa7dd603104abae65c0ab,-0.047822057100645805,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+e315902ce49832b4714312a985617af2,0.027490867288419762,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+e39602b13a9eea13c99888f2f47cc77f,-0.25574386761481294,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+e3c869c841efa64b702a10a5ec702998,-0.4876485252980203,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+e40395270b091c226dc73cc9c6c2afe2,-0.4290062565479813,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+e4c3b57bc18e8474140b62bc2eb6c0c7,3.9495454959483025,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+e550b46eb0ee01ace4eedb439b3a0228,3.7732632146761964,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+e5a14d55eb5de443c6917d256651309b,0.052931907691747604,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+e5e997bf2edc162b99863a9fdd0c7e51,-0.45655902544722315,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+e70610ed4047bdef68a83b693eeae613,-0.26751943264192923,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+e73f90a9d1b5a67ae332508d7449643c,-0.6285504330214999,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+e87560369603db94ed6ed5606fe595d0,0.1024174114729947,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+e8940b9ac010b3b195b77951da1d48b3,1.1813358973610426,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+e9781ad8ecb19a1e66bb4d678c767759,-0.1761965781988168,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+ea90a353de2dc5361b7841b2627d455f,-0.1784243682414439,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+eb00456647df18bef39de8faa2fbbdb1,-0.39242488033752426,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+eb06908791374f31906e18b6049af92b,1.0780513839018253,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+ecd281761b3bcd696cb6ef2684162d1a,-0.1399611827789146,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+ed50faf92eb8dcce3cecb74b0aaffde2,0.10454727420801761,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+ed57df0b0549ec005fedec9dd9a23a99,-0.2356268590983661,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+efe4b2cce4791e728d68c1e985e5615e,0.1048585995380726,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+f1702c9e0f4c381fca530589c88356e2,-0.2166484733233223,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+f1cfe4acbb620d11c48b097b1a4c6941,0.1748313000066435,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+f2b2d7d20e97526e1ce2e9b674d19640,0.20918394887001665,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+f6867ba712cf0718e4fd47ba4e324f67,0.4357493579673051,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+f8ee167a08db61bba065976d89f2980c,-0.4853200336493426,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+fe23c1647f7617ef219a0a0e07c9eec5,0.19979820898233708,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+fe56470c59ac6db98b3091e0bede8933,-0.5304642400204203,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+ff30ae71b5e1a4de6c12219316b7db4f,-0.2134033580492982,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis
+ff84823721d5396ddf0558a3c95e659d,0.10113251756881692,Other-finding control study,intensity_kurtosis,lowest BH-FDR q value in training-only exploratory analysis

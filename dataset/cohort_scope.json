@@ -1,0 +1,18 @@
+{
+  "vindr_version": "1.0.0",
+  "official_images": 20000,
+  "official_studies": 5000,
+  "local_images": 1622,
+  "local_studies": 885,
+  "all_finding_boxes": 2088,
+  "target_images": 402,
+  "target_studies": 207,
+  "target_boxes": 499,
+  "clipped_finding_boxes": 26,
+  "clipped_target_boxes": 2,
+  "external_participants": 151,
+  "external_full_mammograms": 284,
+  "external_reference_boxes": 326,
+  "vindr_record": "https://physionet.org/content/vindr-mammo/1.0.0/",
+  "cbis_record": "https://www.cancerimagingarchive.net/collection/cbis-ddsm/"
+}

@@ -1,0 +1,140 @@
+{
+  "project_title": "DICOM-HUMap-BCRF: Box-Supervised Suspicion and Residual-Risk Mapping for Mammographic DICOM",
+  "acronym_definition": "HUMap means Heatmap-Uncertainty Map; it does not mean Hounsfield units",
+  "project_root": "/home/azyqan/projects/Mammology/02_next_scientific_study",
+  "shared_dataset_root": "../dataset",
+  "scientific_task": "Retrospective bbox-supervised localization of suspicious calcifications with suspicion and residual-risk maps",
+  "task_type": [
+    "box-supervised localization",
+    "weakly supervised heatmap prediction",
+    "localization residual-risk estimation"
+  ],
+  "sample_unit": "mammographic image/view",
+  "analysis_unit": "study_id",
+  "patient_level_independence_proven": false,
+  "input": {
+    "modality": "MG DICOM FOR PRESENTATION",
+    "pixel_interpretation": "stored full-precision presentation values after standard DICOM modality, VOI, polarity, masking, and valid-pixel normalization",
+    "forbidden_interpretations": [
+      "Hounsfield units",
+      "standardized physical attenuation",
+      "raw detector data"
+    ],
+    "preprocessing": "single deterministic standard DICOM rendering contract"
+  },
+  "outputs": [
+    "bbox-supervised suspicious-region heatmap",
+    "normalized learned localization residual-risk map",
+    "finding-presence probability",
+    "center-size bounding-box predictions"
+  ],
+  "reference_standard": {
+    "internal": "radiologist bounding boxes for Suspicious Calcification",
+    "external": "CBIS-DDSM ROI-mask DICOM converted to bounding boxes for evaluation only",
+    "pixel_masks_used_for_model_training": false,
+    "pixel_masks_used_for_segmentation_evaluation": false
+  },
+  "primary_endpoint": "conditional penalized IoU on bbox-bearing images, averaged within study_id and then across studies",
+  "secondary_metrics": [
+    "presence-aware system penalized IoU",
+    "matched IoU",
+    "point localization",
+    "box recall",
+    "false-positive boxes per image",
+    "classification AUROC and AUPRC",
+    "localization-error AUROC and AUPRC",
+    "selective-risk AURC",
+    "study-cluster bootstrap confidence intervals",
+    "checkpoint footprint"
+  ],
+  "classification_scope": "Finding-presence classification is an auxiliary task and secondary diagnostic; it is not the primary novelty claim",
+  "hypothesis": "A jointly optimized ResNet18-FPN hybrid that couples bbox-supervised center-size localization, zero-DC morphological context, adaptive scale reliability, and a learned residual-risk map can improve mean conditional localization performance over separately frozen saliency and rectangular-pseudomask comparators without manually assigned loss or fusion weights.",
+  "scientific_engineering_novelty": [
+    "joint box-supervised prediction of suspicion, residual-risk, presence, count, and center-size geometry from standard-DICOM-preserving inputs",
+    "zero-DC learnable morphological context and adaptive scale-reliability fusion within the FPN decoder",
+    "parameter-free log1p-compressed multi-objective aggregation without manually fixed task weights",
+    "explicit evaluation of residual-risk as a predictor of localization error rather than treating it as a decorative confidence map",
+    "deployment-verified TorchScript artifacts with checkpoint-to-export state hashes and multi-input trace equivalence"
+  ],
+  "model_scope": {
+    "architecture": "ResNet18-FPN BCRF hybrid",
+    "model_spec_sha256": "f45422a42fa0972521e5c8161c9bba205496a7101afbb075434c02c2a22a3137",
+    "accepted_checkpoint_pattern": "dicom_humap_bcrf_f45422a42f_{variant}_seed{17,29,43}.pt",
+    "accepted_full_model_pattern": "dicom_humap_bcrf_f45422a42f_full_bcrf_seed{17,29,43}.pt",
+    "variants": [
+      "full_bcrf",
+      "no_morphology",
+      "no_center_rank",
+      "uniform_fusion",
+      "equal_balance"
+    ],
+    "manual_task_weights": false,
+    "manual_fusion_coefficients": false,
+    "maximum_predicted_boxes_per_image": 2
+  },
+  "comparators": {
+    "methods": [
+      "Grad-CAM",
+      "Score-CAM",
+      "U-Net rectangular-pseudomask"
+    ],
+    "frozen": true,
+    "training_repeated_for_current_revision": false,
+    "threshold_provenance": "frozen source artifacts; original selection partition cannot be reconstructed",
+    "claim_scope": "comparisons apply to the current frozen implementations, not to entire method families"
+  },
+  "split_policy": {
+    "train": "model fitting",
+    "validation": "architecture, early stopping, checkpoint selection, and exploratory ablation evidence",
+    "calibration": "current-method heatmap and presence threshold selection after model freeze",
+    "internal_retrospective": "partition named locked_test in artifacts; historically inspected and not confirmatory",
+    "external_retrospective": "CBIS-DDSM Calc-Test domain-shift evaluation",
+    "confirmatory_locked_test": "not available in the current evidence package"
+  },
+  "external_dataset": {
+    "name": "CBIS-DDSM Calc-Test",
+    "role": "external retrospective domain-shift evaluation",
+    "roi_mask_images_available": true,
+    "roi_mask_use": "converted to external evaluation bounding boxes only; never used for model training or segmentation evaluation"
+  },
+  "experiment_seeds": [
+    17,
+    29,
+    43
+  ],
+  "excluded_tasks": [
+    "pixel-accurate lesion segmentation",
+    "screening specificity",
+    "normal-versus-abnormal diagnosis",
+    "cancer or malignancy prediction",
+    "clinical reader replacement",
+    "causal explanation",
+    "prospective clinical validation"
+  ],
+  "blocking_conditions": [
+    "cross-split study overlap",
+    "ground-truth-box leakage into model inputs",
+    "non-finite model outputs",
+    "CPU fallback",
+    "unsupported physical-intensity claims",
+    "test-driven model or threshold tuning",
+    "promotion of checkpoint lineages not declared by the frozen model specification"
+  ],
+  "known_limitations": [
+    "the internal partition named locked_test was previously accessed and is retrospective",
+    "baseline threshold-selection provenance cannot be reconstructed",
+    "patient-level independence cannot be proven from available local identifiers",
+    "the frozen local annotation snapshot does not match the earlier source-manifest digest",
+    "target-negative local images contain other annotated findings and are not normal controls",
+    "the model predicts at most two boxes although a small number of images contain more than two annotated boxes",
+    "pixel masks are not model-training targets or segmentation-evaluation references; external CBIS-DDSM ROI masks are used only to derive evaluation bounding boxes",
+    "residual-risk output is not established as clinically calibrated uncertainty"
+  ],
+  "compute": {
+    "python": "/home/azyqan/venvs/ml-torch/bin/python",
+    "pytorch": "2.12.1+cu130",
+    "gpu": "NVIDIA GeForce RTX 5070 Laptop GPU",
+    "cpu_fallback": false
+  },
+  "claim_boundary": "The accepted model is a scoped scientific-engineering contribution. Current evidence supports exploratory development and retrospective internal and external evaluation only; it does not establish clinical utility, patient-independent generalization, calibrated uncertainty, confirmatory superiority, state of the art, or universal superiority."
+}

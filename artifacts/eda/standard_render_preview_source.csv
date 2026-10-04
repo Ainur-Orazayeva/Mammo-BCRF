@@ -1,0 +1,2 @@
+image_id,study_id,split,selection_rule,box_area_fraction,actual_sha256
+9f65a2368a5df60f1910d687067ced3b,9c8e8f688e99a35f6bb0a78cd4ae8d7e,train,training target closest to median total bbox area fraction,0.004565435461699963,0880767dd8e9cc621b9222bfd9d4c8907cec0e75dfb008152ebe88bc54ef3e8d

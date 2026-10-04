@@ -1,0 +1,9 @@
+analysis,category,count,percentage
+Bits stored,12-bit,550,73.8255033557047
+Bits stored,16-bit,195,26.174496644295303
+Photometric,MONOCHROME2,637,85.50335570469798
+Photometric,MONOCHROME1,108,14.496644295302014
+VOI LUT Sequence,present,550,73.8255033557047
+VOI LUT Sequence,absent,195,26.174496644295303
+Padding range,present,87,11.677852348993289
+Padding range,absent,658,88.32214765100672

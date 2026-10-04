@@ -1,0 +1,277 @@
+[
+  {
+    "source": "Figures/Publication_BCRF/01_validation_primary_localization.pdf",
+    "path": "figures/1_validation_primary_localization.pdf",
+    "sha256": "43a2829bcb8ea20e6d211d10cd702e272ac011f444cbb61f98c5c206b682dab5"
+  },
+  {
+    "source": "Figures/Publication_BCRF/01_validation_primary_localization.png",
+    "path": "figures/1_validation_primary_localization.png",
+    "sha256": "40d4456c8d30ef53baae2358e22e7b6cd4cd655df004987b3ed61de8b96ca2f4"
+  },
+  {
+    "source": "Figures/Publication_BCRF/02_locked_test_primary_localization.pdf",
+    "path": "figures/2_locked_test_primary_localization.pdf",
+    "sha256": "133afa648cd9bb6a152da2eb1b9ccf45b3354e24d6b388b54694ab6e72dd428e"
+  },
+  {
+    "source": "Figures/Publication_BCRF/02_locked_test_primary_localization.png",
+    "path": "figures/2_locked_test_primary_localization.png",
+    "sha256": "1e4cc4b33d340cdd6ed4291eab7424e359233258cd88833b889a2bf57d8e961e"
+  },
+  {
+    "source": "Figures/Publication_BCRF/03_external_primary_localization.pdf",
+    "path": "figures/3_external_primary_localization.pdf",
+    "sha256": "984a2d33f756ff16f842f4c99c4171c9c1db803952f51632ba3d45515ed26af8"
+  },
+  {
+    "source": "Figures/Publication_BCRF/03_external_primary_localization.png",
+    "path": "figures/3_external_primary_localization.png",
+    "sha256": "629a4fbd528959984e576ada214fe8e56521df803e2f34a03e8282a35eaacede"
+  },
+  {
+    "source": "Figures/Publication_BCRF/04_paired_primary_localization_effects.pdf",
+    "path": "figures/4_paired_primary_localization_effects.pdf",
+    "sha256": "c20089f9ef4938bd39e441289293d8c286e67fd94af6fb6937e1964fe2ce8b45"
+  },
+  {
+    "source": "Figures/Publication_BCRF/04_paired_primary_localization_effects.png",
+    "path": "figures/4_paired_primary_localization_effects.png",
+    "sha256": "471e424bac74b1e1fff71707cc6bd70af8006fb008b88b8111bc80930f28b7ed"
+  },
+  {
+    "source": "Figures/Publication_BCRF/05_development_ablation_primary_localization.pdf",
+    "path": "figures/5_development_ablation_primary_localization.pdf",
+    "sha256": "ce85d6a7c80e53e96d776e1ee4b90da4cb5cf149304de7de7e67046e4cfed83f"
+  },
+  {
+    "source": "Figures/Publication_BCRF/05_development_ablation_primary_localization.png",
+    "path": "figures/5_development_ablation_primary_localization.png",
+    "sha256": "3f4b39cc0976ad659916854a0ce0f962bd94f8b13a338a53ea05a83306972080"
+  },
+  {
+    "source": "Figures/Publication_BCRF/06_bcrf_practical_locked_test.pdf",
+    "path": "figures/6_bcrf_practical_locked_test.pdf",
+    "sha256": "72a9643a0f211f016aba7f7cbe31f1631fb5cc881a89ad63a4aa65a496872b4d"
+  },
+  {
+    "source": "Figures/Publication_BCRF/06_bcrf_practical_locked_test.png",
+    "path": "figures/6_bcrf_practical_locked_test.png",
+    "sha256": "75cf0d82d78dd25c126386e1c1dbf94f909d5cc614d99ea33c8661637377bdb6"
+  },
+  {
+    "source": "Figures/Publication_BCRF/07_grad_cam_practical_locked_test.pdf",
+    "path": "figures/7_grad_cam_practical_locked_test.pdf",
+    "sha256": "74da60761cab7e2c4b8a0fcd4c9a841b4f46dbcf876823a168fdbe6d7a894b5e"
+  },
+  {
+    "source": "Figures/Publication_BCRF/07_grad_cam_practical_locked_test.png",
+    "path": "figures/7_grad_cam_practical_locked_test.png",
+    "sha256": "d274d84a2151924728f5402405f3ae51d6566e45d6c1783f5e32c445c965dc85"
+  },
+  {
+    "source": "Figures/Publication_BCRF/08_score_cam_practical_locked_test.pdf",
+    "path": "figures/8_score_cam_practical_locked_test.pdf",
+    "sha256": "2a5a5b51c02fe4e012bb03e681e2d2a9a7668874e37f6b1524d46498acf2df42"
+  },
+  {
+    "source": "Figures/Publication_BCRF/08_score_cam_practical_locked_test.png",
+    "path": "figures/8_score_cam_practical_locked_test.png",
+    "sha256": "b3a12f0a6fa51e7dd1d9c37b5a9057f0a984a958be385c32db109fdb261cc326"
+  },
+  {
+    "source": "Figures/Publication_BCRF/09_unet_practical_locked_test.pdf",
+    "path": "figures/9_unet_practical_locked_test.pdf",
+    "sha256": "4dd5c581c4dc18f8f455be26c2331b553bbabb1fa7bd8e78898ddb2a53748287"
+  },
+  {
+    "source": "Figures/Publication_BCRF/09_unet_practical_locked_test.png",
+    "path": "figures/9_unet_practical_locked_test.png",
+    "sha256": "fe4e6f8ed5124dd686f7df1d183c50d581f42271e214b0b930fbe3c8cd34f910"
+  },
+  {
+    "source": "Figures/Publication_BCRF/10_bcrf_selective_risk.pdf",
+    "path": "figures/10_bcrf_selective_risk.pdf",
+    "sha256": "12bfdbff9139080736bb7baf523fa678c64975b0cb491cfe35ce57dee19577f6"
+  },
+  {
+    "source": "Figures/Publication_BCRF/10_bcrf_selective_risk.png",
+    "path": "figures/10_bcrf_selective_risk.png",
+    "sha256": "f8de2d768417f33a197552cca0c8c57c5ed932fb85e9b80e2aad458f016c1f43"
+  },
+  {
+    "source": "Figures/Publication_BCRF/11_secondary_classification_metrics.pdf",
+    "path": "figures/11_secondary_classification_metrics.pdf",
+    "sha256": "397bbb9a8aee92410a01d5fff6c125fd229cd7fdbd7b08ccff685a77bb52036a"
+  },
+  {
+    "source": "Figures/Publication_BCRF/11_secondary_classification_metrics.png",
+    "path": "figures/11_secondary_classification_metrics.png",
+    "sha256": "27d0b3508c0f917504547c642260f0e90c0d71e9e9725af4fe1495459900aefe"
+  },
+  {
+    "source": "Figures/EDA/F01_available_image_scope.pdf",
+    "path": "figures/S1_available_image_scope.pdf",
+    "sha256": "2df06197e7a215b38c8763716b72987daede4c0766a80209dc10c30a0469b399"
+  },
+  {
+    "source": "Figures/EDA/F01_available_image_scope.png",
+    "path": "figures/S1_available_image_scope.png",
+    "sha256": "ef4e3fbb5e947a5623753386bac89a1836d3394d39d94581e34fa5eb1c08c757"
+  },
+  {
+    "source": "Figures/EDA/F02_frozen_partitions.pdf",
+    "path": "figures/S2_frozen_partitions.pdf",
+    "sha256": "886292b022bdfd53f7fd9ab3845708580f56a3ca9df499f0ab6c53893b0dc047"
+  },
+  {
+    "source": "Figures/EDA/F02_frozen_partitions.png",
+    "path": "figures/S2_frozen_partitions.png",
+    "sha256": "17f1bb02c53d1830508774989352ab3187d058643437c8ba8d1d8f709f7da566"
+  },
+  {
+    "source": "Figures/EDA/F03_train_manufacturer_support.pdf",
+    "path": "figures/S3_train_manufacturer_support.pdf",
+    "sha256": "7a93bde95da53721745e17ee33d7ba101b2205b19227ec9bcb17bcb3a6a1f808"
+  },
+  {
+    "source": "Figures/EDA/F03_train_manufacturer_support.png",
+    "path": "figures/S3_train_manufacturer_support.png",
+    "sha256": "071dd800b4e375df904fff22da5e94733acc3d898cea0ad87fa92786cde69838"
+  },
+  {
+    "source": "Figures/EDA/F04_train_breast_density.pdf",
+    "path": "figures/S4_train_breast_density.pdf",
+    "sha256": "3ef296b212b33d7449b740d2c92860b8ca14bc777a332ae7906b4ae966455f4a"
+  },
+  {
+    "source": "Figures/EDA/F04_train_breast_density.png",
+    "path": "figures/S4_train_breast_density.png",
+    "sha256": "e824ab92394f6430fa7e4e5ea66dd59fa1e332153b00ac57b5fac7e2f58041af"
+  },
+  {
+    "source": "Figures/EDA/F05_train_view_distribution.pdf",
+    "path": "figures/S5_train_view_distribution.pdf",
+    "sha256": "8efcc6beb5e1517d367f8a7e71c9daeb57a71dd7df47c60cd97c3c09103816d0"
+  },
+  {
+    "source": "Figures/EDA/F05_train_view_distribution.png",
+    "path": "figures/S5_train_view_distribution.png",
+    "sha256": "ff426ab7a6b48d09de3c9d76c5eecd662b3045df3220f88954266aec7c140028"
+  },
+  {
+    "source": "Figures/EDA/F06_train_target_bbox_area.pdf",
+    "path": "figures/S6_train_target_bbox_area.pdf",
+    "sha256": "da39cf0bc9bdd4f54772591a1ad4286ba23c652050c350f253d57d4d68d1ec8a"
+  },
+  {
+    "source": "Figures/EDA/F06_train_target_bbox_area.png",
+    "path": "figures/S6_train_target_bbox_area.png",
+    "sha256": "39295d0281e102c5604a9cc2bbd9be253cd343798b3cd93fabdedcd527bb6244"
+  },
+  {
+    "source": "Figures/EDA/F07_standard_dicom_render.pdf",
+    "path": "figures/S7_standard_dicom_render.pdf",
+    "sha256": "8cc19333c466eb4680a3e935c37d492f25067fc9ebef2224c748583efc27cd23"
+  },
+  {
+    "source": "Figures/EDA/F07_standard_dicom_render.png",
+    "path": "figures/S7_standard_dicom_render.png",
+    "sha256": "07d07a660c04b4d856b4a1ffc96e1eb472da09a32e627b9b424b03257411a6b2"
+  },
+  {
+    "source": "Figures/EDA/F08_valid_pixel_support.pdf",
+    "path": "figures/S8_valid_pixel_support.pdf",
+    "sha256": "15abf7bac76fd240b5aee613c96e65da39dc6739527de9fbf9a8cc4c7c5e2eec"
+  },
+  {
+    "source": "Figures/EDA/F08_valid_pixel_support.png",
+    "path": "figures/S8_valid_pixel_support.png",
+    "sha256": "3afb157ba63c3f1bff6d054d39c7a2e9f304a3d65ffc61a5b63d1c59796f9af4"
+  },
+  {
+    "source": "Figures/EDA/F09_stored_pixel_distribution.pdf",
+    "path": "figures/S9_stored_pixel_distribution.pdf",
+    "sha256": "1074f026df42d4a1a58cd20ee84f689f23325918e8bb30f3e67573649b2dacf8"
+  },
+  {
+    "source": "Figures/EDA/F09_stored_pixel_distribution.png",
+    "path": "figures/S9_stored_pixel_distribution.png",
+    "sha256": "2e2cf719013c40b7c33a28e6d217cd5482c9ee00989bcf3687d35d2df2782587"
+  },
+  {
+    "source": "Figures/EDA/F10_standard_presentation_distribution.pdf",
+    "path": "figures/S10_standard_presentation_distribution.pdf",
+    "sha256": "beda5bf359efc464fd6900f4bcdc2d9f42842c7156c84a1d63c98b76010ff55b"
+  },
+  {
+    "source": "Figures/EDA/F10_standard_presentation_distribution.png",
+    "path": "figures/S10_standard_presentation_distribution.png",
+    "sha256": "2ad03adb4c9ced2652af3ae6777d1adc6a230422023322d16ae8edd064ecaffb"
+  },
+  {
+    "source": "Figures/EDA/F11_standard_dicom_pathways.pdf",
+    "path": "figures/S11_standard_dicom_pathways.pdf",
+    "sha256": "930764e34b4683b9a79e8cc857c2966ed5cdba6ce4539097d6e3713f67a2fef5"
+  },
+  {
+    "source": "Figures/EDA/F11_standard_dicom_pathways.png",
+    "path": "figures/S11_standard_dicom_pathways.png",
+    "sha256": "cf2079b5581a65c6a692b497b4f2baa3575002aa4f66c20413b8871993a1d0e5"
+  },
+  {
+    "source": "Figures/EDA/F12_study_feature_correlation.pdf",
+    "path": "figures/S12_study_feature_correlation.pdf",
+    "sha256": "69cdb3b7d2921cbf63131055249798af28061353b298c67222ab2900cc2ff340"
+  },
+  {
+    "source": "Figures/EDA/F12_study_feature_correlation.png",
+    "path": "figures/S12_study_feature_correlation.png",
+    "sha256": "7e153a6411782b6b2480e08467327a46bc3d9e1fb197c82b6e643f284d2f0b8b"
+  },
+  {
+    "source": "Figures/EDA/F13_exploratory_feature_effects.pdf",
+    "path": "figures/S13_exploratory_feature_effects.pdf",
+    "sha256": "8281698d907740b9c3e99ad6c4ee354dff9720dc72d163caf8fd61e4c8d06390"
+  },
+  {
+    "source": "Figures/EDA/F13_exploratory_feature_effects.png",
+    "path": "figures/S13_exploratory_feature_effects.png",
+    "sha256": "d97bc84620c7e2019cb8fdce578a27f4ad9d1dbdec37b97fe7e2039f53ccf4ad"
+  },
+  {
+    "source": "Figures/EDA/F14_top_ranked_exploratory_feature.pdf",
+    "path": "figures/S14_top_ranked_exploratory_feature.pdf",
+    "sha256": "e5132bb44b060207c0c3f8ff5df7eff329732033a1afbf881da518259766ca96"
+  },
+  {
+    "source": "Figures/EDA/F14_top_ranked_exploratory_feature.png",
+    "path": "figures/S14_top_ranked_exploratory_feature.png",
+    "sha256": "0d5add7d3d62f73dbe11ff3c0d683cc91e78c14cfd1b16847343510f04a0ff30"
+  },
+  {
+    "source": "Figures/Development/bcrf_development_ablation_pIoU.pdf",
+    "path": "figures/S16_bcrf_development_ablation_pIoU.pdf",
+    "sha256": "f2e38d06ecc1df5d6e05b95f47b19ae25e96aec90388370babfeb602b3b4a761"
+  },
+  {
+    "source": "Figures/Development/bcrf_development_ablation_pIoU.png",
+    "path": "figures/S16_bcrf_development_ablation_pIoU.png",
+    "sha256": "ea1895677aa9f36390ce9f79753432e6a28865c20e225dadd81501b2dddc5e65"
+  },
+  {
+    "source": "Figures/Development/bcrf_development_pIoU_by_epoch.pdf",
+    "path": "figures/S15_bcrf_development_pIoU_by_epoch.pdf",
+    "sha256": "ba888287045ca33b9963ef5628baa4b6d316b8f0edee87e4e0270fcadde9a1ff"
+  },
+  {
+    "source": "Figures/Development/bcrf_development_pIoU_by_epoch.png",
+    "path": "figures/S15_bcrf_development_pIoU_by_epoch.png",
+    "sha256": "84bdda3645ef3dff3b7829d0441cdc1066bf788c1b7ad1f9938c46da9a1b9d0e"
+  },
+  {
+    "source": "Figures/EDA/F15_standard_dicom_pipeline.png",
+    "path": "figures/S17_standard_dicom_pipeline.png",
+    "sha256": "cfab4d07fbc7db21aa36f49a5e4fc1b855da27e411d5b1f7bfd105cfd89b7730"
+  }
+]

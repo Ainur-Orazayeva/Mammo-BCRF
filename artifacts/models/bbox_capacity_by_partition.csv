@@ -1,0 +1,4 @@
+partition,images,images_above_two_reference_boxes,maximum_reference_boxes,maximum_predicted_boxes
+validation,182,2,3,2
+internal_retrospective,183,2,5,2
+external_cbis_ddsm,284,3,5,2

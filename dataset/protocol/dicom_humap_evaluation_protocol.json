@@ -1,0 +1,101 @@
+{
+  "protocol_id": "dicom_humap_bcrf_frozen_evaluation",
+  "protocol_revision": "bcrf_f45422a42f_retrospective_internal_external",
+  "model_behavior_id": "standard_dicom_bbox_supervised_bcrf_heatmap_residual_risk",
+  "evidence_role": "exploratory_development_and_retrospective_internal_external",
+  "confirmatory_claim_allowed": false,
+  "patient_independent_claim_allowed": false,
+  "clinical_claim_allowed": false,
+  "universal_superiority_claim_allowed": false,
+  "historical_split_previously_accessed": true,
+  "internal_partition_artifact_label": "locked_test",
+  "internal_partition_reporting_label": "internal retrospective partition",
+  "comparison_unit": "study_id",
+  "primary_endpoint": "conditional penalized IoU on bbox-bearing images, averaged within study_id and then across studies",
+  "secondary_endpoints": [
+    "presence-aware system penalized IoU",
+    "matched IoU",
+    "point localization",
+    "box recall",
+    "false-positive boxes per image",
+    "classification AUROC and AUPRC",
+    "localization-error AUROC and AUPRC",
+    "selective-risk AURC"
+  ],
+  "methods": [
+    "Grad-CAM",
+    "Score-CAM",
+    "U-Net rectangular-pseudomask",
+    "DICOM-HUMap-BCRF"
+  ],
+  "seeds": [
+    17,
+    29,
+    43
+  ],
+  "proposed_model": {
+    "architecture": "ResNet18-FPN with zero-DC morphological context, adaptive scale-reliability fusion, center-size box decoder, and learned residual-risk head",
+    "model_spec_sha256": "f45422a42fa0972521e5c8161c9bba205496a7101afbb075434c02c2a22a3137",
+    "checkpoint_pattern": "dicom_humap_bcrf_f45422a42f_full_bcrf_seed{17,29,43}.pt",
+    "deployment_pattern": "dicom_humap_bcrf_f45422a42f_full_seed{17,29,43}.torchscript.pt",
+    "manual_task_weights": false,
+    "manual_fusion_coefficients": false,
+    "maximum_predicted_boxes_per_image": 2
+  },
+  "ablation_variants": [
+    "full_bcrf",
+    "no_morphology",
+    "no_center_rank",
+    "uniform_fusion",
+    "equal_balance"
+  ],
+  "comparator_contract": {
+    "checkpoint_families": [
+      "cam_classifier_seed{17,29,43}.pt",
+      "unet_pseudomask_seed{17,29,43}.pt"
+    ],
+    "retraining_for_current_revision": false,
+    "threshold_selection_partition": "inherited_source_partition_not_reconstructable",
+    "claim_scope": "retrospective conditional comparison against the current frozen implementations only"
+  },
+  "threshold_policy": {
+    "proposed_method": "conditional center-size decoder is threshold-free; a presence threshold is selected on calibration only for the secondary system output",
+    "comparators": "frozen inherited thresholds; original selection partition cannot be reconstructed",
+    "test_retuning": false
+  },
+  "evaluation_partitions": {
+    "validation": "reused exploratory evidence",
+    "locked_test": "historically inspected internal retrospective partition",
+    "external_cbis_ddsm": "external retrospective CBIS-DDSM Calc-Test domain-shift evaluation"
+  },
+  "statistical_analysis": {
+    "analysis_unit": "study_id",
+    "interval": "study-cluster bootstrap 95% confidence interval",
+    "paired_contrasts": true,
+    "multiplicity": "Holm correction within declared paired comparator family",
+    "interpretation": "a positive mean difference without a positive lower confidence bound is not reported as statistically established superiority"
+  },
+  "lineage_contract": {
+    "prediction_rows_require": [
+      "artifact_sha256",
+      "source_checkpoint_sha256",
+      "model_spec_sha256",
+      "threshold_source_sha256",
+      "cache_sha256",
+      "prediction_protocol_sha256"
+    ],
+    "exact_method_seed_grid": "4 methods x 3 seeds per evaluated split",
+    "publication_outputs_require_source_table_hashes": true
+  },
+  "known_evidence_limits": [
+    "the partition named locked_test is not confirmatory",
+    "baseline threshold-selection provenance is incomplete",
+    "patient-level independence is not established from available identifiers",
+    "the local annotation snapshot differs from the earlier source-manifest digest",
+    "the proposed decoder predicts at most two boxes while a small number of images have more than two reference boxes",
+    "CBIS-DDSM ROI-mask DICOM images are converted to bounding boxes solely for external localization evaluation and are not used for training or segmentation evaluation",
+    "residual-risk is an experimental localization-error proxy, not clinically calibrated uncertainty",
+    "comparisons do not establish superiority over the Grad-CAM, Score-CAM, or U-Net families in general"
+  ],
+  "claim_boundary": "Permitted claims are restricted to numerical means, paired intervals, and current frozen implementations on the declared retrospective evidence. No confirmatory, clinical, patient-independent, calibrated-uncertainty, state-of-the-art, or universal-superiority claim is permitted."
+}

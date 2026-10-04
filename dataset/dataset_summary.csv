@@ -1,0 +1,6 @@
+split,images,studies,target_positive_images,target_boxes,clipped_target_boxes,target_prevalence
+calibration,183,101,40,60,0,0.2185792349726776
+locked_test,183,101,44,57,0,0.24043715846994534
+secondary_source_test,329,181,99,109,1,0.3009118541033435
+train,745,401,177,219,0,0.23758389261744967
+validation,182,101,42,54,1,0.23076923076923078

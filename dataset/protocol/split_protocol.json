@@ -1,0 +1,58 @@
+{
+  "protocol_version": "3.0.0",
+  "protocol_amendment_date": "2026-07-30",
+  "split_seed": 342,
+  "seed_search": "0..511; pre-model target, vendor, and density balance only",
+  "sample_unit": "image/view",
+  "analysis_unit": "study_id",
+  "patient_level_independence_proven": false,
+  "task": "Suspicious Calcification heatmap localization in a bbox-selected abnormal cohort",
+  "controls": "other annotated findings; not normal mammograms",
+  "reference": {
+    "internal": "radiologist bounding boxes",
+    "external_cbis_ddsm": "ROI-mask DICOM converted to bounding boxes for evaluation only",
+    "pixel_masks_used_for_training": false,
+    "segmentation_evaluation": false
+  },
+  "partitions": {
+    "train": "model fitting",
+    "validation": "architecture, early stopping, and checkpoint selection only",
+    "calibration": "current-method heatmap and presence threshold selection after model freeze",
+    "secondary_source": "retrospective domain-shift evaluation; previously evaluated",
+    "locked_test_artifact_label": "historically inspected internal retrospective partition; not confirmatory",
+    "external_cbis_ddsm": "external retrospective CBIS-DDSM Calc-Test domain-shift evaluation",
+    "confirmatory_locked_test": "not available in the current evidence package"
+  },
+  "threshold_policy": {
+    "current_methods": "heatmap and presence thresholds selected on calibration only",
+    "grad_cam_score_cam_unet": "thresholds inherited from frozen source artifacts; the original selection partition cannot be reconstructed",
+    "test_retuning": false,
+    "inference_scope": "all comparisons involving inherited baseline thresholds are retrospective conditional evidence"
+  },
+  "standard_dicom_pipeline": [
+    "stored pixels",
+    "padding-range mask",
+    "modality LUT",
+    "VOI LUT or window",
+    "presentation polarity",
+    "valid-pixel normalization",
+    "aspect-preserving resize and pad"
+  ],
+  "annotation_provenance": {
+    "actual_sha256": "6d5bbac113a3ed8baeea780078c45a52dfe73b07f042fddc6f4650d237ad93e7",
+    "source_manifest_match": false,
+    "policy": "exact local snapshot frozen by explicit user instruction; mismatch disclosed"
+  },
+  "decoder_scope": {
+    "maximum_predicted_boxes_per_image": 2,
+    "images_with_more_than_two_reference_boxes": {
+      "validation": 2,
+      "locked_test": 2,
+      "external_cbis_ddsm": 3
+    },
+    "interpretation": "a declared model-capacity limitation; no reference boxes are removed from evaluation"
+  },
+  "sample_manifest_sha256": "809d058ab31f4232e29357f9dfdfc5ee6a276dfe73945f326cc59eb41e0c182d",
+  "split_assignments_sha256": "7b0ef0cb33af4bbe55c863b1548384fe6d7ce70fd21eec6dacc90854bc117ee7",
+  "claim_boundary": "No confirmatory, patient-independent, clinical, state-of-the-art, or universal-superiority claim is permitted."
+}
